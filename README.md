@@ -60,3 +60,21 @@ CRIAR OS ARQUIVOS
 APAGAR ESSAS DUAS LINHAS DO PACKAGE.JSON PARA OS ARQUIVOS FUNCIONAREM
 "private": true,
 "type": "module",
+
+INSTALAÇÃO DO ARQUIVO QUE AUXILIA NA CRAÇÃO DE ARUQIVOS DE LAYOUT
+
+**npm install antd**
+
+INSTALAÇÃO DO ARQUIVO QUE CONTEM OS COMPONENTES
+
+**npm install --save styled-components**
+**npm install --save-dev @types/styled-components**
+
+PASSOS DE ORGANIZAÇÃO DO PROJETO
+
+ - criar a pasta modules no src
+ - criar a pasta shared
+
+ RODAR O PROJETO FRONT
+  **npm run dev**
+
